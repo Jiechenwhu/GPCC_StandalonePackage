@@ -8,3 +8,6 @@ https://github.com/Jiechenwhu/GPCC_StandalonePackage
 
 The demo data for running GPCC can be archived from:
 https://github.com/Jiechenwhu/GPCC_demo_data
+
+More details can be found in our Installation note.
+https://github.com/Jiechenwhu/GPCC/InstallationNoteForGPCC.pdf
